@@ -8,6 +8,7 @@ public class Leetcode_28_FindTheIndexOfTheFirstOccurrenceInAString {
                 break;
             }
         }
+
         return result;
     }
 }
